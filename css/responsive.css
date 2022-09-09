@@ -1,0 +1,238 @@
+
+/*responsive code csss start here*/
+
+@media (min-width: 279px) and (max-width: 319px){
+        /*code start*/
+        .inner-banner h4{
+            font-size: 12px;
+            line-height: 22px;
+            font-weight: 400;
+            letter-spacing: 2px;
+        }
+        .inner-banner h1 {
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 600;
+        }
+        .inner-banner p {
+            font-size: 12px;
+            line-height: 22px;
+            font-weight: 400;
+        }
+
+        .inner-btn {
+            width: 100%;
+            padding: 5px 0px 0px;
+       } 
+        .inner-btn .btn-primary {
+            padding: 10px 15px;
+            font-size: 7px;
+            line-height: 17px;
+            font-weight: 500;
+            border-radius: 1px;
+        }
+        .inner-btn .btn-light {
+            padding: 10px 15px;
+            font-size: 7px;
+            line-height: 17px;
+            font-weight: 500;
+            border-radius: 1px;
+        }
+        .title h1 {
+            font-size: 35px;
+            line-height: 45px;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+        .eye-catcher h2 {
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 300;
+        }
+        .eye-catcher .inner-btn .btn-light {
+            padding: 10px 15px;
+            font-size: 7px;
+            line-height: 17px;
+        }
+        .eye-catcher .inner-btn .btn-primary{
+            padding: 10px 15px;
+            font-size: 7px;
+            line-height: 17px;
+        }
+        .contact-form .submit{
+            text-align: center;
+        }
+        .contact-form .submit .btn-primary {
+            padding: 10px 15px;
+            font-size: 7px;
+            line-height: 17px;
+            font-weight: 600;
+        }
+        .footer {
+            padding: 30px 0px 20px;
+        }
+        .footer .fa{
+                font-size: 15px;
+                margin: 0px 5px 0px 5px;
+        }
+       /*code end*/
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+	    /*code start*/
+        .inner-banner h4{
+            font-size: 14px;
+            line-height: 24px;
+            font-weight: 500;
+            letter-spacing: 2px;
+        }
+        .inner-banner h1 {
+            font-size: 22px;
+            line-height: 32px;
+            font-weight: 600;
+        }
+        .inner-banner p {
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 400;
+        }
+
+        .inner-btn {
+            width: 100%;
+            padding: 10px 0px 0px;
+       } 
+        .inner-btn .btn-primary {
+            padding: 10px 15px;
+            font-size: 10px;
+            line-height: 20px;
+            font-weight: 500;
+            border-radius: 1px;
+        }
+        .inner-btn .btn-light {
+            padding: 10px 15px;
+            font-size: 10px;
+            line-height: 20px;
+            font-weight: 500;
+            border-radius: 1px;
+        }
+        .title h1 {
+            font-size: 35px;
+            line-height: 45px;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+        .eye-catcher h2 {
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 300;
+        }
+        .eye-catcher .inner-btn .btn-light {
+            padding: 10px 15px;
+            font-size: 10px;
+            line-height: 20px;
+        }
+        .eye-catcher .inner-btn .btn-primary{
+            padding: 10px 15px;
+            font-size: 10px;
+            line-height: 20px;
+        }
+        .contact-form .submit{
+            text-align: center;
+        }
+        .contact-form .submit .btn-primary {
+            padding: 15px 30px;
+            font-size: 10px;
+            line-height: 20px;
+            font-weight: 600;
+        }
+         .footer {
+            padding: 40px 0px 30px;
+        }
+        .footer .fa{
+                font-size: 16px;
+                margin: 0px 7px 0px 7px;
+        }
+           /*code end*/
+
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+	/*code start*/
+	.inner-banner h4{
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 500;
+            letter-spacing: 2px;
+        }
+        .inner-banner h1 {
+            font-size: 24px;
+            line-height: 32px;
+            font-weight: 600;
+        }
+        .inner-banner p {
+            font-size: 18px;
+            line-height: 28px;
+            font-weight: 400;
+        }
+
+        .inner-btn {
+            width: 100%;
+            padding: 12px 0px 0px;
+       } 
+        .inner-btn .btn-primary {
+            padding: 10px 15px;
+            font-size: 12px;
+            line-height: 22px;
+            font-weight: 500;
+            border-radius: 1px;
+        }
+        .inner-btn .btn-light {
+            padding: 10px 15px;
+            font-size: 12px;
+            line-height: 22px;
+            font-weight: 500;
+            border-radius: 1px;
+        }
+        .title h1 {
+            font-size: 36px;
+            line-height: 46px;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+        .eye-catcher h2 {
+            font-size: 22px;
+            line-height: 32px;
+            font-weight: 300;
+        }
+        .eye-catcher .inner-btn .btn-light {
+            padding: 10px 15px;
+            font-size: 12px;
+            line-height: 22px;
+        }
+        .eye-catcher .inner-btn .btn-primary{
+            padding: 10px 15px;
+            font-size: 12px;
+            line-height: 22px;
+        }
+        .contact-form .submit{
+            text-align: center;
+        }
+        .contact-form .submit .btn-primary {
+            padding: 15px 30px;
+            font-size: 12px;
+            line-height: 22px;
+            font-weight: 600;
+        }
+         .footer {
+            padding: 40px 0px 30px;
+        }
+        .footer .fa{
+                font-size: 16px;
+                margin: 0px 8px 0px 8px;
+        }
+        /*code end*/
+
+}
+@media (min-width: 768px) and (max-width: 1024px){
+
+}
